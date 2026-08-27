@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Utkarsh Singh, a passionate learner and aspiring developer who enjoys building practical and useful tech solutions.<br><br>🎓 Currently focused on learning Data Structures & Algorithms (C++)<br>🤖 Exploring AI, Prompt Engineering & Automation (n8n)<br>💡 Interested in creating smart tools that solve real-world problems<br>📚 Strong focus on understanding concepts from basics to advanced<br>🚀 Always working on improving my coding and problem-solving skills
+Hi there! 👋<br>I'm Utkarsh Singh, a passionate learner and aspiring developer who enjoys building practical and useful tech solutions.<br><br>🎓 Currently focused on learning Data Structures & Algorithms (C++)<br>🤖 Exploring AI,<br>💡 Interested in creating smart tools that solve real-world problems<br>📚 Strong focus on understanding concepts from basics to advanced<br>🚀 Always working on improving my coding and problem-solving skills
 
 
 # 💻 Tech Stack:
