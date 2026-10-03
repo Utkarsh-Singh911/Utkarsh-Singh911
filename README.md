@@ -11,8 +11,6 @@ Hi there! 👋<br>I'm Utkarsh Singh, a passionate learner and aspiring developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Utkarsh-Singh911&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Utkarsh_singh911?theme=unicorn&font=Zen%20Maru%20Gothic&ext=heatmap)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
